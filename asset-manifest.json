@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formik-ts-starter/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/formik-ts-starter/static/js/main.e1372840.chunk.js",
+    "main.js.map": "/formik-ts-starter/static/js/main.e1372840.chunk.js.map",
+    "runtime-main.js": "/formik-ts-starter/static/js/runtime-main.84407549.js",
+    "runtime-main.js.map": "/formik-ts-starter/static/js/runtime-main.84407549.js.map",
+    "static/js/2.37bdce4c.chunk.js": "/formik-ts-starter/static/js/2.37bdce4c.chunk.js",
+    "static/js/2.37bdce4c.chunk.js.map": "/formik-ts-starter/static/js/2.37bdce4c.chunk.js.map",
+    "index.html": "/formik-ts-starter/index.html",
+    "precache-manifest.a53b10398a3ba3f3f2cdb791e9618541.js": "/formik-ts-starter/precache-manifest.a53b10398a3ba3f3f2cdb791e9618541.js",
+    "service-worker.js": "/formik-ts-starter/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/formik-ts-starter/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.37bdce4c.chunk.js.LICENSE.txt": "/formik-ts-starter/static/js/2.37bdce4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84407549.js",
+    "static/js/2.37bdce4c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e1372840.chunk.js"
+  ]
+}
